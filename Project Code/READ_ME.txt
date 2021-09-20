@@ -1,0 +1,15 @@
+CODE WAS USED TO PRODUCE REPORT GRAPHS, AS FOLLOWS:
+
+1. Figure 1- "weight_analysis.py"
+2. Figure 2- "weight_analysis.py"
+3. Figure 3- "weight_analysis.py"
+4. Figure 4- "Neural_Tangents_Cookbook.ipynb"
+5. Figure 5- "scaled_initialization_analysis.py"
+6. Figure 6- "scaled_initialization_analysis.py"
+7. Figure 7- "scaled_loss_analysis.py"
+8. Figure 8- "deep_vs_shallow_analysis.py"
+9. Figure 9- "cross_val_error.py"
+10. Figure 10- "train_test_validation.py"
+11. Figure 11- "train_test_validation.py"
+12. Figure 12- "MNIST.py"
+13. Figure 13- "train_test_validation_REG.py"
